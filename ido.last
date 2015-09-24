@@ -1,0 +1,43 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "Guest/")
+ ("/Users/user/git/" . "hckrmoon/")
+ ("/Users/user/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/user/.emacs.d/"
+ "/Users/user/git/hckrmoon/"
+ "/Users/user/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "index.html"
+ "_config.yml"
+ ".emacs.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/user/.emacs.d/" (22009 40645 0 0) "places" "init.el" "ido.last" "elpa/" "backups/" "auto-save-list/" "#init.el#" "../" "./")
+
+ ("/Users/user/" (22009 40454 0 0) "WebstormProjects/" "utfsb/" "Public/" "Pictures/" "osquare/" "nw/" "Music/" "Movies/" "mongoDB/" "Library/" "Keys/" "git/" "emacs/" "Downloads/" "Documents/" "Desktop/" "Applications (Parallels)/" "Applications/" ".zshrc-e" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-hckrmoon-5.0.5" ".zcompdump-eung의 MacBook Air-5.0.5" ".WebStorm10/" ".viminfo" ".v8flags.3.28.71.19.user.json" ".Trash/" ".ssh/" ".scala_history" ".oh-my-zsh/" ".npm/" ".node-gyp/" ".mongorc.js" ".local/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gem/" ".emacs.el~" ".emacs.el" ".emacs.d/" ".DS_Store" ".dbshell" ".config/" ".CFUserTextEncoding" ".cache/" ".bash_history" ".babel.json" "../" "./")
+
+ ("/Users/user/git/hckrmoon/" (22008 15338 0 0) "index.html" "feed.xml" "css/" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" ".sass-cache/" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/user/.emacs.d/elpa/" (22008 14821 0 0) "with-editor-2.2.2/" "magit-popup-2.2.2/" "magit-2.2.2/" "git-commit-2.2.2/" "emmet-mode-1.0.10/" "dash-2.11.0/" "better-defaults-0.1.2/" "async-1.4/" "archives/" "../" "./")
+
+ ("/Users/Guest/" (21981 55430 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" ".CFUserTextEncoding" "../" "./")
+
+ ("/Users/user/git/" (22008 11404 0 0) "tistory/" "redux/" "NG6-starter/" "keyboard_warrior/" "hckrmoon/" "elixir/" ".DS_Store" "../" "./")
+
+ ("/Users/" (21982 62688 0 0) "user/" "Shared/" "Guest/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

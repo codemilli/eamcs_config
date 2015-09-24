@@ -1,0 +1,20 @@
+ls
+vi .emacs.d/init.el 
+ls
+cd git
+ls
+cd hckrmoon/
+ls
+ls
+rm about.md~
+ls
+cd ..
+ls
+cd git/hc
+ls
+cd hckrmoon/
+ls
+node index.js
+nodejs index.js
+node
+ls
