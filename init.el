@@ -63,8 +63,8 @@
 ;; tab 을 기본 indent 로 지정할지를 설정
 ;;(setq-default indent-tabs-mode t)
 ;; tab size: 2
-(setq tab-width 2)
-(setq js-indent-level 2)
+(setq tab-width 4)
+(setq js-indent-level 4)
 ;; json 파일에도 js mode 적용
 (add-to-list 'auto-mode-alist '("\\.json$" . js-mode))
 ;; 버퍼 및 파일 삭제
@@ -91,6 +91,6 @@
 (ac-set-trigger-key "<tab>")
 
 ;;; ace window
-(global-set-key (kbd "M-p") 'ace-window))
+(global-set-key (kbd "M-p") 'ace-window)
 (setq aw-keys '(?a ?s ?d ?f ?g ?h ?j ?k ?l))
 (setq aw-background nil)
